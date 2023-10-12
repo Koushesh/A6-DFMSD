@@ -11,7 +11,7 @@ certain target region, once reference waveforms are found.
 
 -------If you use this software, please cite it as below:
 
-Koushesh M, Ritter J (2022) An Adaptive 6-Dimensional Floating-Search Multi-Station Seismic-Event Detector (A6-DFMSD)
+Koushesh M, Ritter J R R (2022) An Adaptive 6-Dimensional Floating-Search Multi-Station Seismic-Event Detector (A6-DFMSD)
 and its Application to Low Frequency Earthquakes in the East Eifel Volcanic Field, Germany. 
 Submitted to Journal of Applied Volcanology (under revision), 
 
